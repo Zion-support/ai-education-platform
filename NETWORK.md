@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-education-platform** — personalized learning paths, quizzes and AI tutoring. Part of the Zion Tech Group app network (630+ apps).
+**ai-education-platform** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Industry Platforms](https://github.com/Zion-support/zion-network/blob/main/network/industry-platforms.md)
 
 ## Related apps
-- [ai-language-tutor](https://github.com/Zion-support/ai-language-tutor) — language learning
-- [ai-coach](https://github.com/Zion-support/ai-coach) — AI coaching
-- [zion-ai-training-academy](https://github.com/Zion-support/zion-ai-training-academy) — training academy
+- [ai-language-tutor](https://github.com/Zion-support/ai-language-tutor) — Personalized language learning
+- [ai-coach](https://github.com/Zion-support/ai-coach) — AI coaching for habits, skills, goals
+- [zion-ai-training-academy](https://github.com/Zion-support/zion-ai-training-academy) — Training academy
+- [ai-healthcare-platform](https://github.com/Zion-support/ai-healthcare-platform) — Medical AI and patient management
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
